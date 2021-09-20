@@ -1,2 +1,2 @@
-# ruby_ile_programlama
+# Ruby ile Programlama
 Ruby ile ilgili notlar
