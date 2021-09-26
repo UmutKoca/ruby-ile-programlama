@@ -1,0 +1,13 @@
+#   Soyutlama
+
+Genel olarak programlama ve bilgisayar bilimlerinde soyutlama denilen bir kavram vardır. Soyutlama, kullanıcıların "kaputun altında" olanlarla ilgilenmelerine gerek kalmamasını sağlar.
+
+Basit bir örnekle bu durumu açıklayalım: Arkadaşlarımız ve sevdiklerimizle iletişim kurmak için her gün kullandığımız cep telefonunu düşünelim. Temel olarak, arama yapmak ve almak, metin mesajları göndermek/almak, facebook/twitter'ınızı kontrol etmek ve belki biraz fotoğraf çekmek istiyoruz. Bir kullanıcı olarak, yalnızca telefonun iletişim kurmak için sunduğu temel işlevleri önemseriz. Başka bir deyişle, ihtiyaçlarımızı telefonun üreticisi tarafından sağlanan bir arayüzle gideriyoruz. Arka planda hangi işlevin nasıl gerçekleştiğiyle ilgilenmiyoruz.
+
+Telefon teknisyeni ise telefonu tamir etmek zorunda kalır ve farklı bir soyutlama düzeyi ile karşı karşıya kalıyor. Teknisyen farklı bileşenlerin telefonun çeşitli alt sistemleriyle nasıl etkileşime girdiği konusunda daha bilgili. Daha aşağıda, yazılım mühendisi İşletim Sistemi ile ilgileniyor ve başka bir soyutlama katmanıyla karşılaşıyor.
+
+Yukarıdaki örnek bilgisayarlarda olanlara benzer. Kullanıcı veya istemci bilgisayarları müzik dinlemek, e-posta göndermek, oyun oynamak ve daha fazlası için kullanır. Bu görevleri mümkün kılan uygulamalarla, alt düzey ayrıntılar hakkında herhangi bir bilgi sahibi olmadan etkileşime girerler. Programcılar C, Ruby gibi diller ile programlarını yazarlar ve bu kodlar makinenin anlayacağı 0 ve 1 lere dönüştürülür. Programcı bu işin nasıl yapılığıyla ilgilenmeden insan diline daha yakın dilleri kullanarak istediği programı geliştirir. Bu, her programlama dilinin, kullanımı kolaylaştıran diğer alt düzey kod katmanlarına dayandığı anlamına gelir. Bu da bir çeşit soyutlamadır.
+
+Başka bir soyutlamayı ele alalım, Ruby programcıları sürekli yaptıkları işleri otomatikleştirmek, işlerini kolaylaştırmak için Ruby on Rails ve Rspec gibi Domain Specific Languages (DSL) olarak adlandırılan, özel bir uygulama alanı için kullanılan  yapıları inşa ederler. Çoğu zaman (özellikle merak etmiyorsak) bunların nasıl inşa edildiklerinden ziyade nasıl kullanabileceğimize odaklanıp hızlıca proje geliştiririz.
+
+Yeni başlayan biri olarak, özellikle programlama ve bilgisayar bilimlerindeki bu soyutlamaların ve bunların programlamayı nasıl basitleştirdiğini ve bilgisayarların kullanımını nasıl kolaylaştırdığını bilmemiz gerekir. Örneğin, Ruby'yi anlamadan Rails veya Rspec kodunu okumak genellikle kafa karıştırıcıdır çünkü Rails ve Rspec daha yüksek bir soyutlama düzeyinde çalışan DSL'lerdir. 
