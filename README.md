@@ -1,2 +1,4 @@
 # Ruby ile Programlama
-Ruby ile ilgili notlar
+Ruby çalışırken aldığım notlardan ibaret bir repo. 
+
+Tam ve eksiksiz değil hatta yanlış bilgiler bile olabilir. 

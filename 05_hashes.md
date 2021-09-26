@@ -1,4 +1,4 @@
-# HASHES (Hash Yapısı)
+# Hashes (Hash Yapısı)
 
 Bu yapı dizilerin kuzenidir.Ruby'deki hashler daha gelişkin bir koleksiyon yapısıdır. Javascriptteki obje ve Pythondaki sözlük yapısına benzer.
 
