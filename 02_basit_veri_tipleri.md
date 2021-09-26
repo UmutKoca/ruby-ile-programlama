@@ -204,7 +204,7 @@ puts name1 # Emre
 puts name2 # Emre
 
 name1.object_id # 1281503
-name2.object_id # 1281508
+name2.object_id # 1281503
 
 name1.object_id == name2.object_id # true
 ```
