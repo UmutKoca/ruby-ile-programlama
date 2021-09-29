@@ -1,4 +1,4 @@
-#   Soyutlama
+#Soyutlama
 
 Genel olarak programlama ve bilgisayar bilimlerinde soyutlama denilen bir kavram vardır. Soyutlama, kullanıcıların "kaputun altında" olanlarla ilgilenmelerine gerek kalmamasını sağlar.
 
